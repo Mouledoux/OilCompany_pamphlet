@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: 17b22078071e550488207881cd1737a6
+timeCreated: 1492645192
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: b_turn-screw_mesh_00
+    100002: belt_bone_L_00
+    100004: Belt_bone_R_00
+    100006: drill_bone_01
+    100008: drill_bone_02
+    100010: drill_cont_00
+    100012: Drill_mesh_00
+    100014: drill_rot_cont
+    100016: drill_rot_part_helper
+    100018: helmet_bone_00
+    100020: hummer_bone_00
+    100022: hummer_cont_00
+    100024: hummer_mesh_00
+    100026: Left_bag_cont_00
+    100028: right_bag_00
+    100030: turn-screw_cont
+    100032: turn_screw_bone_00
+    100034: Worker chest
+    100036: Worker head
+    100038: Worker LArm1
+    100040: Worker LArm2
+    100042: Worker LArmCollarbone
+    100044: Worker LArmDigit11
+    100046: Worker LArmDigit12
+    100048: Worker LArmDigit13
+    100050: Worker LArmDigit21
+    100052: Worker LArmDigit22
+    100054: Worker LArmPalm
+    100056: Worker LLeg1
+    100058: Worker LLeg2
+    100060: Worker LLegAnkle
+    100062: Worker LLegDigit11
+    100064: Worker Pelvis001
+    100066: Worker RArm1
+    100068: Worker RArm2
+    100070: Worker RArmCollarbone
+    100072: Worker RArmDigit11
+    100074: Worker RArmDigit12
+    100076: Worker RArmDigit13
+    100078: Worker RArmDigit21
+    100080: Worker RArmDigit22
+    100082: Worker RArmPalm
+    100084: Worker RLeg1
+    100086: Worker RLeg2
+    100088: Worker RLegAnkle
+    100090: Worker RLegDigit11
+    100092: Worker Spine
+    100094: Worker Spine1
+    100096: Worker Spine2
+    100098: //RootNode
+    100100: worker_body_mesh_00
+    400000: b_turn-screw_mesh_00
+    400002: belt_bone_L_00
+    400004: Belt_bone_R_00
+    400006: drill_bone_01
+    400008: drill_bone_02
+    400010: drill_cont_00
+    400012: Drill_mesh_00
+    400014: drill_rot_cont
+    400016: drill_rot_part_helper
+    400018: helmet_bone_00
+    400020: hummer_bone_00
+    400022: hummer_cont_00
+    400024: hummer_mesh_00
+    400026: Left_bag_cont_00
+    400028: right_bag_00
+    400030: turn-screw_cont
+    400032: turn_screw_bone_00
+    400034: Worker chest
+    400036: Worker head
+    400038: Worker LArm1
+    400040: Worker LArm2
+    400042: Worker LArmCollarbone
+    400044: Worker LArmDigit11
+    400046: Worker LArmDigit12
+    400048: Worker LArmDigit13
+    400050: Worker LArmDigit21
+    400052: Worker LArmDigit22
+    400054: Worker LArmPalm
+    400056: Worker LLeg1
+    400058: Worker LLeg2
+    400060: Worker LLegAnkle
+    400062: Worker LLegDigit11
+    400064: Worker Pelvis001
+    400066: Worker RArm1
+    400068: Worker RArm2
+    400070: Worker RArmCollarbone
+    400072: Worker RArmDigit11
+    400074: Worker RArmDigit12
+    400076: Worker RArmDigit13
+    400078: Worker RArmDigit21
+    400080: Worker RArmDigit22
+    400082: Worker RArmPalm
+    400084: Worker RLeg1
+    400086: Worker RLeg2
+    400088: Worker RLegAnkle
+    400090: Worker RLegDigit11
+    400092: Worker Spine
+    400094: Worker Spine1
+    400096: Worker Spine2
+    400098: //RootNode
+    400100: worker_body_mesh_00
+    4300000: b_turn-screw_mesh_00
+    4300002: Drill_mesh_00
+    4300004: hummer_mesh_00
+    4300006: worker_body_mesh_00
+    7400000: All Animations
+    7400002: Walk
+    7400004: Run
+    7400006: Idle
+    7400008: Hat Trick
+    7400010: Drill_01
+    7400012: Screw Driver
+    7400014: Hammer
+    7400016: Drill_02
+    7400018: Death
+    7400020: ScrewdriverLoop
+    9500000: //RootNode
+    13700000: b_turn-screw_mesh_00
+    13700002: Drill_mesh_00
+    13700004: hummer_mesh_00
+    13700006: worker_body_mesh_00
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: All Animations
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 725
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 51
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hat Trick
+      takeName: Take 001
+      firstFrame: 90
+      lastFrame: 175
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drill_01
+      takeName: Take 001
+      firstFrame: 180
+      lastFrame: 265
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Screw Driver
+      takeName: Take 001
+      firstFrame: 265
+      lastFrame: 375
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Hammer
+      takeName: Take 001
+      firstFrame: 375
+      lastFrame: 530
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Drill_02
+      takeName: Take 001
+      firstFrame: 530
+      lastFrame: 675
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 675
+      lastFrame: 725
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ScrewdriverLoop
+      takeName: Take 001
+      firstFrame: 312
+      lastFrame: 331
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: b_turn-screw_mesh_00
+        weight: 1
+      - path: drill_cont_00
+        weight: 1
+      - path: drill_cont_00/drill_bone_01
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont
+        weight: 1
+      - path: drill_cont_00/drill_bone_01/drill_rot_part_helper/drill_rot_cont/drill_bone_02
+        weight: 1
+      - path: Drill_mesh_00
+        weight: 1
+      - path: helmet_bone_00
+        weight: 1
+      - path: hummer_cont_00
+        weight: 1
+      - path: hummer_cont_00/hummer_bone_00
+        weight: 1
+      - path: hummer_mesh_00
+        weight: 1
+      - path: turn-screw_cont
+        weight: 1
+      - path: turn-screw_cont/turn_screw_bone_00
+        weight: 1
+      - path: Worker Pelvis001
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00
+        weight: 1
+      - path: Worker Pelvis001/Left_bag_cont_00/belt_bone_L_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00
+        weight: 1
+      - path: Worker Pelvis001/right_bag_00/Belt_bone_R_00
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker LLeg1/Worker LLeg2/Worker LLegAnkle/Worker LLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle
+        weight: 1
+      - path: Worker Pelvis001/Worker RLeg1/Worker RLeg2/Worker RLegAnkle/Worker RLegDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit11/Worker LArmDigit12/Worker
+          LArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker LArmCollarbone/Worker
+          LArm1/Worker LArm2/Worker LArmPalm/Worker LArmDigit21/Worker LArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit11/Worker RArmDigit12/Worker
+          RArmDigit13
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker RArmCollarbone/Worker
+          RArm1/Worker RArm2/Worker RArmPalm/Worker RArmDigit21/Worker RArmDigit22
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine
+        weight: 1
+      - path: Worker Pelvis001/Worker Spine1/Worker Spine2/Worker chest/Worker Spine/Worker
+          head
+        weight: 1
+      - path: worker_body_mesh_00
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
